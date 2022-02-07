@@ -1,1 +1,2 @@
-# Brain-Cancer-Classification
+# Brain-Cancer-Classification 
+This was our undergrad thesis work.The system  can classify among four different classes that consist of three types of Brain Cancers (Glioma, Meningioma, and Pituitary) and Non-Cancerous. A convolutional neural network is developed to extract deep features from the MRI images. Then these extracted deep features are fed into multi-class ML classifiers to classify among these cancer types. Finally, an ensemble of classifiers is used to achieve better performance by combining the results of each ML classifier. 
